@@ -1,0 +1,11 @@
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/release/deps/libbeef-ce6498f319029d27.rmeta: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs
+
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/release/deps/libbeef-ce6498f319029d27.rlib: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs
+
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/release/deps/beef-ce6498f319029d27.d: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs
+
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs:

@@ -1,0 +1,10 @@
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/release/deps/libstacker-19445b4daade4520.rmeta: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/unix.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs
+
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/release/deps/libstacker-19445b4daade4520.rlib: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/unix.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs
+
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/release/deps/stacker-19445b4daade4520.d: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/unix.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs
+
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/lib.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/mod.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/backends/unix.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stacker-0.1.21/src/mmap_stack_restore_guard.rs:

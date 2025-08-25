@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "canisters": {
+    "supply_chain_backend": {
+      "type": "custom",
+       "main": "src/supply_chain_backend/src/lib.rs",
+      "candid": "src/supply_chain_backend/supply_chain_backend.did",
+      "wasm": "src/supply_chain_backend/target/wasm32-unknown-unknown/release/supply_chain_backend.wasm",
+      "build": "cd src/supply_chain_backend && cargo build --target wasm32-unknown-unknown --release"
+    },
+    "supply_chain_frontend": {
+      "type": "assets",
+      "source": ["src/supply_chain_frontend/dist/"]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:4943",
+      "type": "ephemeral"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+// -------------------------
+// Type Definitions
+// -------------------------
+
+type Product = record {
+  id: text;
+  name: text;
+  description: text;
+  manufacturer: text;
+  created_at: nat64;
+  current_location: text;
+  status: text;
+};
+
+type SupplyEvent = record {
+  id: text;
+  product_id: text;
+  event_type: text;
+  location: text;
+  timestamp: nat64;
+  description: text;
+  actor: text;
+};
+
+type User = record {
+  id: text;
+  name: text;
+  email: text;
+  role: text;
+  created_at: nat64;
+};
+
+// Required for Candid UI
+type HttpRequest = record {
+  method: text;
+  url: text;
+  headers: vec record { text; text };
+  body: vec nat8;
+  upgrade: opt bool;
+};
+
+type HttpResponse = record {
+  status_code: nat16;
+  headers: vec record { text; text };
+  body: vec nat8;
+};
+
+// -------------------------
+// Service Interface
+// -------------------------
+
+service : {
+  // Product APIs
+  register_product: (text, text, text) -> (text);
+  get_product: (text) -> (opt Product) query;
+  get_all_products: () -> (vec Product) query;
+
+  // Event APIs
+  add_supply_event: (text, text, text, text, text) -> (text);
+  get_product_events: (text) -> (vec SupplyEvent) query;
+
+  // User APIs
+  register_user: (text, text, text) -> (text);
+  get_user: (text) -> (opt User) query;
+  get_all_users: () -> (vec User) query;
+
+  // For Candid UI HTTP Gateway
+  http_request: (HttpRequest) -> (HttpResponse) query;
+};

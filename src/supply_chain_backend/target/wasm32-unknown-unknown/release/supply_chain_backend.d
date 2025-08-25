@@ -1,0 +1,1 @@
+/mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/target/wasm32-unknown-unknown/release/supply_chain_backend.wasm: /mnt/c/Users/HP/Desktop/PROJ/supply-chain/src/supply_chain_backend/src/lib.rs
